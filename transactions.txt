@@ -1,0 +1,124 @@
+2024-12-07 22:25:30 | 
+
+2024-12-07 22:25:30 | ---------------------- NEW BANKING SESSION STARTED -----------------------
+2024-12-07 22:25:30 | Savings Withdrawal Blocked: Customer 3 attempted to withdraw $24. Current balance: $0.00, Minimum balance requirement: $100.00
+2024-12-07 22:25:30 | Savings Withdrawal Blocked: Customer 2 attempted to withdraw $39. Current balance: $0.00, Minimum balance requirement: $100.00
+2024-12-07 22:25:30 | Deposit: Customer 5, Amount: $16, New Balance: $16.00
+2024-12-07 22:25:30 | Savings Withdrawal Blocked: Customer 1 attempted to withdraw $6. Current balance: $16.00, Minimum balance requirement: $100.00
+2024-12-07 22:25:30 | Savings Withdrawal Blocked: Customer 4 attempted to withdraw $33. Current balance: $16.00, Minimum balance requirement: $100.00
+2024-12-07 22:25:30 | Deposit: Customer 2, Amount: $26, New Balance: $42.00
+2024-12-07 22:25:30 | Savings Withdrawal Blocked: Customer 3 attempted to withdraw $9. Current balance: $42.00, Minimum balance requirement: $100.00
+2024-12-07 22:25:30 | Savings Withdrawal Blocked: Customer 4 attempted to withdraw $6. Current balance: $42.00, Minimum balance requirement: $100.00
+2024-12-07 22:25:30 | Deposit: Customer 1, Amount: $43, New Balance: $85.00
+2024-12-07 22:25:30 | Savings Withdrawal Blocked: Customer 5 attempted to withdraw $17. Current balance: $85.00, Minimum balance requirement: $100.00
+2024-12-07 22:25:30 | Savings Withdrawal Blocked: Customer 1 attempted to withdraw $6. Current balance: $85.00, Minimum balance requirement: $100.00
+2024-12-07 22:25:30 | Savings Withdrawal Blocked: Customer 5 attempted to withdraw $17. Current balance: $85.00, Minimum balance requirement: $100.00
+2024-12-07 22:25:30 | Deposit: Customer 3, Amount: $48, New Balance: $133.00
+2024-12-07 22:25:30 | Savings Withdrawal: Customer 2, Amount: $19, New Balance: $114.00
+2024-12-07 22:25:30 | Savings Withdrawal Blocked: Customer 4 attempted to withdraw $23. Current balance: $114.00, Minimum balance requirement: $100.00
+2024-12-07 22:25:30 | System Interest Calculation: Amount $5.70, New Balance: $119.70, Interest Rate: 5.00%
+2024-12-07 22:25:30 | Savings Withdrawal Blocked: Customer 1 attempted to withdraw $37. Current balance: $119.70, Minimum balance requirement: $100.00
+2024-12-07 22:25:30 | Deposit: Customer 2, Amount: $5, New Balance: $124.70
+2024-12-07 22:25:30 | Savings Withdrawal: Customer 5, Amount: $2, New Balance: $122.70
+2024-12-07 22:25:30 | Deposit: Customer 4, Amount: $27, New Balance: $149.70
+2024-12-07 22:25:30 | Deposit: Customer 3, Amount: $40, New Balance: $189.70
+2024-12-07 22:25:30 | Deposit: Customer 1, Amount: $46, New Balance: $235.70
+2024-12-07 22:25:30 | Deposit: Customer 2, Amount: $43, New Balance: $278.70
+2024-12-07 22:25:30 | Deposit: Customer 5, Amount: $48, New Balance: $326.70
+2024-12-07 22:25:30 | Savings Withdrawal: Customer 4, Amount: $33, New Balance: $293.70
+2024-12-07 22:25:30 | Savings Withdrawal: Customer 3, Amount: $16, New Balance: $277.70
+2024-12-07 22:25:30 | System Interest Calculation: Amount $13.88, New Balance: $291.58, Interest Rate: 5.00%
+2024-12-07 22:25:30 | 
+Savings Account Final Summary:
+ Total Transactions: 16, Final Balance: $291.58
+2024-12-07 22:25:30 | Checking Withdrawal: Customer 1, Amount: $34, New Balance: $-34.00
+2024-12-07 22:25:30 | Deposit: Customer 2, Amount: $9, New Balance: $-25.00
+2024-12-07 22:25:30 | Checking Withdrawal: Customer 3, Amount: $3, New Balance: $-28.00
+2024-12-07 22:25:30 | Checking Withdrawal: Customer 4, Amount: $14, New Balance: $-42.00
+2024-12-07 22:25:30 | Checking Withdrawal: Customer 5, Amount: $5, New Balance: $-47.00
+2024-12-07 22:25:30 | Checking Withdrawal: Customer 3, Amount: $34, New Balance: $-81.00
+2024-12-07 22:25:30 | Deposit: Customer 1, Amount: $43, New Balance: $-38.00
+2024-12-07 22:25:30 | Checking Withdrawal: Customer 2, Amount: $41, New Balance: $-79.00
+2024-12-07 22:25:30 | Checking Withdrawal Blocked: Customer 5 attempted to withdraw $32. Current balance: $-79.00, Overdraft limit: $100.00
+2024-12-07 22:25:30 | Checking Withdrawal: Customer 4, Amount: $1, New Balance: $-80.00
+2024-12-07 22:25:31 | Checking Withdrawal: Customer 5, Amount: $12, New Balance: $-92.00
+2024-12-07 22:25:31 | Checking Withdrawal Blocked: Customer 4 attempted to withdraw $35. Current balance: $-92.00, Overdraft limit: $100.00
+2024-12-07 22:25:31 | Deposit: Customer 2, Amount: $22, New Balance: $-70.00
+2024-12-07 22:25:31 | Deposit: Customer 3, Amount: $4, New Balance: $-66.00
+2024-12-07 22:25:31 | Deposit: Customer 1, Amount: $40, New Balance: $-26.00
+2024-12-07 22:25:31 | Deposit: Customer 3, Amount: $27, New Balance: $1.00
+2024-12-07 22:25:31 | Deposit: Customer 2, Amount: $43, New Balance: $44.00
+2024-12-07 22:25:31 | Checking Withdrawal: Customer 4, Amount: $30, New Balance: $14.00
+2024-12-07 22:25:31 | Checking Withdrawal: Customer 5, Amount: $43, New Balance: $-29.00
+2024-12-07 22:25:31 | Deposit: Customer 1, Amount: $15, New Balance: $-14.00
+2024-12-07 22:25:31 | Deposit: Customer 4, Amount: $10, New Balance: $-4.00
+2024-12-07 22:25:31 | Checking Withdrawal: Customer 3, Amount: $5, New Balance: $-9.00
+2024-12-07 22:25:31 | Deposit: Customer 5, Amount: $8, New Balance: $-1.00
+2024-12-07 22:25:31 | Checking Withdrawal: Customer 2, Amount: $4, New Balance: $-5.00
+2024-12-07 22:25:31 | Deposit: Customer 1, Amount: $21, New Balance: $16.00
+2024-12-07 22:25:31 | 
+Checking Account Final Summary: 
+Total Transactions: 23, Final Balance: $16.00
+2024-12-07 22:25:31 | ------------------------ BANKING SESSION ENDED --------------------------- 
+2024-12-07 22:31:00 | 
+
+2024-12-07 22:31:00 | -------------- NEW BANKING SESSION STARTED ---------------
+2024-12-07 22:31:00 | Deposit: Customer 2, Amount: $27, New Balance: $27.00
+2024-12-07 22:31:00 | Savings Withdrawal Blocked: Customer 3 attempted to withdraw $5. Current balance: $27.00, Minimum balance requirement: $100.00
+2024-12-07 22:31:00 | Savings Withdrawal Blocked: Customer 1 attempted to withdraw $43. Current balance: $27.00, Minimum balance requirement: $100.00
+2024-12-07 22:31:00 | Deposit: Customer 4, Amount: $20, New Balance: $47.00
+2024-12-07 22:31:00 | Deposit: Customer 5, Amount: $43, New Balance: $90.00
+2024-12-07 22:31:00 | Deposit: Customer 5, Amount: $36, New Balance: $126.00
+2024-12-07 22:31:00 | Savings Withdrawal Blocked: Customer 4 attempted to withdraw $34. Current balance: $126.00, Minimum balance requirement: $100.00
+2024-12-07 22:31:00 | Savings Withdrawal Blocked: Customer 1 attempted to withdraw $42. Current balance: $126.00, Minimum balance requirement: $100.00
+2024-12-07 22:31:00 | Deposit: Customer 3, Amount: $15, New Balance: $141.00
+2024-12-07 22:31:00 | Deposit: Customer 2, Amount: $48, New Balance: $189.00
+2024-12-07 22:31:00 | Savings Withdrawal: Customer 2, Amount: $39, New Balance: $150.00
+2024-12-07 22:31:00 | Savings Withdrawal: Customer 3, Amount: $49, New Balance: $101.00
+2024-12-07 22:31:00 | Deposit: Customer 1, Amount: $48, New Balance: $149.00
+2024-12-07 22:31:00 | Deposit: Customer 5, Amount: $35, New Balance: $184.00
+2024-12-07 22:31:00 | Savings Withdrawal: Customer 4, Amount: $11, New Balance: $173.00
+2024-12-07 22:31:01 | System Interest Calculation: Amount $8.65, New Balance: $181.65, Interest Rate: 5.00%
+2024-12-07 22:31:01 | Deposit: Customer 2, Amount: $5, New Balance: $186.65
+2024-12-07 22:31:01 | Savings Withdrawal: Customer 4, Amount: $11, New Balance: $175.65
+2024-12-07 22:31:01 | Deposit: Customer 5, Amount: $1, New Balance: $176.65
+2024-12-07 22:31:01 | Deposit: Customer 1, Amount: $46, New Balance: $222.65
+2024-12-07 22:31:01 | Deposit: Customer 3, Amount: $45, New Balance: $267.65
+2024-12-07 22:31:01 | Deposit: Customer 5, Amount: $7, New Balance: $274.65
+2024-12-07 22:31:01 | Deposit: Customer 1, Amount: $1, New Balance: $275.65
+2024-12-07 22:31:01 | Savings Withdrawal: Customer 4, Amount: $26, New Balance: $249.65
+2024-12-07 22:31:01 | Deposit: Customer 2, Amount: $11, New Balance: $260.65
+2024-12-07 22:31:01 | Savings Withdrawal: Customer 3, Amount: $12, New Balance: $248.65
+2024-12-07 22:31:01 | System Interest Calculation: Amount $12.43, New Balance: $261.08, Interest Rate: 5.00%
+2024-12-07 22:31:01 | 
+Savings Account Final Summary:
+ Total Transactions: 23, Final Balance: $261.08
+2024-12-07 22:31:01 | Checking Withdrawal: Customer 1, Amount: $21, New Balance: $-21.00
+2024-12-07 22:31:01 | Checking Withdrawal: Customer 2, Amount: $42, New Balance: $-63.00
+2024-12-07 22:31:01 | Checking Withdrawal: Customer 3, Amount: $11, New Balance: $-74.00
+2024-12-07 22:31:01 | Checking Withdrawal: Customer 4, Amount: $11, New Balance: $-85.00
+2024-12-07 22:31:01 | Deposit: Customer 5, Amount: $45, New Balance: $-40.00
+2024-12-07 22:31:01 | Checking Withdrawal: Customer 4, Amount: $2, New Balance: $-42.00
+2024-12-07 22:31:01 | Checking Withdrawal: Customer 3, Amount: $24, New Balance: $-66.00
+2024-12-07 22:31:01 | Checking Withdrawal: Customer 5, Amount: $26, New Balance: $-92.00
+2024-12-07 22:31:01 | Deposit: Customer 2, Amount: $9, New Balance: $-83.00
+2024-12-07 22:31:01 | Deposit: Customer 1, Amount: $19, New Balance: $-64.00
+2024-12-07 22:31:01 | Checking Withdrawal: Customer 5, Amount: $2, New Balance: $-66.00
+2024-12-07 22:31:01 | Deposit: Customer 3, Amount: $48, New Balance: $-18.00
+2024-12-07 22:31:01 | Deposit: Customer 2, Amount: $11, New Balance: $-7.00
+2024-12-07 22:31:01 | Deposit: Customer 4, Amount: $15, New Balance: $8.00
+2024-12-07 22:31:01 | Checking Withdrawal: Customer 1, Amount: $29, New Balance: $-21.00
+2024-12-07 22:31:01 | Checking Withdrawal: Customer 3, Amount: $33, New Balance: $-54.00
+2024-12-07 22:31:01 | Checking Withdrawal: Customer 2, Amount: $37, New Balance: $-91.00
+2024-12-07 22:31:01 | Checking Withdrawal Blocked: Customer 5 attempted to withdraw $15. Current balance: $-91.00, Overdraft limit: $100.00
+2024-12-07 22:31:01 | Checking Withdrawal: Customer 4, Amount: $9, New Balance: $-100.00
+2024-12-07 22:31:01 | Checking Withdrawal Blocked: Customer 1 attempted to withdraw $37. Current balance: $-100.00, Overdraft limit: $100.00
+2024-12-07 22:31:01 | Checking Withdrawal Blocked: Customer 4 attempted to withdraw $10. Current balance: $-100.00, Overdraft limit: $100.00
+2024-12-07 22:31:01 | Checking Withdrawal Blocked: Customer 1 attempted to withdraw $30. Current balance: $-100.00, Overdraft limit: $100.00
+2024-12-07 22:31:01 | Deposit: Customer 5, Amount: $17, New Balance: $-83.00
+2024-12-07 22:31:01 | Checking Withdrawal: Customer 2, Amount: $10, New Balance: $-93.00
+2024-12-07 22:31:01 | Checking Withdrawal: Customer 3, Amount: $1, New Balance: $-94.00
+2024-12-07 22:31:01 | 
+Checking Account Final Summary: 
+Total Transactions: 21, Final Balance: $-94.00
+2024-12-07 22:31:01 | ---------- BANKING SESSION ENDED ------------------ 
